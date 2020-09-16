@@ -1,2 +1,2 @@
 # javascript
-JavaScript projects
+This a clock made by js
