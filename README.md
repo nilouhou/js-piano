@@ -1,1 +1,3 @@
-# Piano with Vanilla javascript and flex box
+# Piano with Vanilla JavaScript and Flex box:
+
+For the demo, click here: [Demo](http://faratech.ca/js/piano/)
