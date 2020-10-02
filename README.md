@@ -1,2 +1,1 @@
-# javascript
-JavaScript projects
+# Piano with Vanilla javascript and flex box
